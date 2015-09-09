@@ -1,1 +1,1 @@
-/Users/andrewmcelroy/Desktop/reactti/node_modules/titaniumifier/plugin/1.0.0/hook.js
+/Users/andrewmcelroy/Desktop/26-getting-started-with-react-titanium/reactti/node_modules/titaniumifier/plugin/1.0.0/hook.js

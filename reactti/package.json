@@ -1,0 +1,15 @@
+{
+  "name": "reactti",
+  "version": "1.0.0",
+  "description": "Welcome to your Appcelerator Titanium Mobile Project",
+  "main": "Resources/app.js",
+    "titaniumifier": {
+      "transforms": {
+        "babelify": {
+          "stage": 0,
+          "optional": [ "runtime" ],
+          "plugins": [ "react-titanium/lib/babel-plugin:before" ]
+        }
+      }
+    }
+  }
